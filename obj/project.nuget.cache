@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "tL1SWXV8/+M=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\RUBEN\\Desktop\\Calculatrice\\Calculatrice\\Calculatrice\\Calculatrice.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1012",
+      "level": "Error",
+      "message": "Platform version is not present for one or more target frameworks, even though they have specified a platform: net9.0-android, net9.0-ios, net9.0-maccatalyst",
+      "projectPath": "C:\\Users\\RUBEN\\Desktop\\Calculatrice\\Calculatrice\\Calculatrice\\Calculatrice.csproj",
+      "filePath": "C:\\Users\\RUBEN\\Desktop\\Calculatrice\\Calculatrice\\Calculatrice\\Calculatrice.csproj",
+      "targetGraphs": []
+    }
+  ]
+}
